@@ -1,0 +1,32 @@
+﻿빌드 시작: 2012-08-10 오후 8:07:06
+     1>2 노드의 "C:\Users\SGA-A08\Desktop\새 폴더\trunk\김준성\김준성3\김준성3\김준성3.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\김준성3.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\김준성3.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MyRectangle.cpp "김준성3.cpp"
+         김준성3.cpp
+         MyRectangle.cpp
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\excpt.h(29): error C2143: 구문 오류 : ';'이(가) '문자열' 앞에 없습니다.
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\excpt.h(29): error C2059: 구문 오류 : '문자열'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\excpt.h(29): error C2143: 구문 오류 : ';'이(가) '{' 앞에 없습니다.
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\excpt.h(29): error C2447: '{' : 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.h(1204): error C2143: 구문 오류 : ';'이(가) '__stdcall' 앞에 없습니다.
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.h(1204): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.h(1210): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.h(1212): error C2143: 구문 오류 : ';'이(가) '*' 앞에 없습니다.
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.h(1212): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.h(1212): error C2365: 'EXCEPTION_ROUTINE' : 재정의: 이전 정의는 '함수'입니다.
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.h(1205) : 'EXCEPTION_ROUTINE' 선언을 참조하십시오.
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.h(1212): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\새 폴더\trunk\김준성\김준성3\김준성3\myrectangle.cpp(15): error C2039: 'Draw' : 'MyRectangle'의 멤버가 아닙니다.
+                 c:\users\sga-a08\desktop\새 폴더\trunk\김준성\김준성3\김준성3\myrectangle.h(3) : 'MyRectangle' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\새 폴더\trunk\김준성\김준성3\김준성3\myrectangle.cpp(15): error C2146: 구문 오류 : ';'이(가) 'Draw' 식별자 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\새 폴더\trunk\김준성\김준성3\김준성3\myrectangle.cpp(15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\새 폴더\trunk\김준성\김준성3\김준성3\myrectangle.cpp(16): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+         코드를 생성하고 있습니다...
+     1>"C:\Users\SGA-A08\Desktop\새 폴더\trunk\김준성\김준성3\김준성3\김준성3.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.98

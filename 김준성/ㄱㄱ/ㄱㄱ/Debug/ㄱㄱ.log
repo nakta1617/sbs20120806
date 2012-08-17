@@ -1,0 +1,143 @@
+﻿빌드 시작: 2012-08-09 오후 9:03:44
+     1>2 노드의 "C:\Users\SGA-A08\Desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\ㄱㄱ.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ㄱㄱ.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "ㄱㄱ.cpp"
+         ㄱㄱ.cpp
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19): error C2143: 구문 오류 : ';'이(가) 'for' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19): error C2143: 구문 오류 : ')'이(가) ';' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19): error C2143: 구문 오류 : ';'이(가) '<' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19): error C2086: 'int i' : 재정의
+                 c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19) : 'i' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19): error C2059: 구문 오류 : ')'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(20): error C2143: 구문 오류 : ';'이(가) '{' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(20): error C2447: '{' : 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(26): error C2059: 구문 오류 : 'for'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(26): error C2143: 구문 오류 : ')'이(가) ';' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(26): error C2143: 구문 오류 : ';'이(가) '<' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(26): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(26): error C2086: 'int i' : 재정의
+                 c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19) : 'i' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(26): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(26): error C2086: 'int i' : 재정의
+                 c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19) : 'i' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(26): error C2059: 구문 오류 : ')'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(27): error C2143: 구문 오류 : ';'이(가) '{' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(27): error C2447: '{' : 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(45): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(45): error C2365: 'printf' : 재정의: 이전 정의는 '함수'입니다.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(285) : 'printf' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(45): error C2440: '초기화 중' : 'const char [4]'에서 'int'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(46): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(46): error C2365: 'printf' : 재정의: 이전 정의는 '함수'입니다.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(285) : 'printf' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(46): error C2440: '초기화 중' : 'const char [4]'에서 'int'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(47): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(47): error C2365: 'printf' : 재정의: 이전 정의는 '함수'입니다.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(285) : 'printf' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(47): error C2440: '초기화 중' : 'const char [4]'에서 'int'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(48): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(48): error C2365: 'printf' : 재정의: 이전 정의는 '함수'입니다.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(285) : 'printf' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(48): error C2440: '초기화 중' : 'const char [4]'에서 'int'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(49): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(49): error C2365: 'printf' : 재정의: 이전 정의는 '함수'입니다.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(285) : 'printf' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(49): error C2440: '초기화 중' : 'const char [4]'에서 'int'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(50): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(50): error C2365: 'printf' : 재정의: 이전 정의는 '함수'입니다.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(285) : 'printf' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(50): error C2440: '초기화 중' : 'const char [4]'에서 'int'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(51): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(51): error C2365: 'printf' : 재정의: 이전 정의는 '함수'입니다.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(285) : 'printf' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(51): error C2440: '초기화 중' : 'const char [4]'에서 'int'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(52): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(52): error C2365: 'printf' : 재정의: 이전 정의는 '함수'입니다.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(285) : 'printf' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(52): error C2440: '초기화 중' : 'const char [4]'에서 'int'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(53): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(53): error C2365: 'printf' : 재정의: 이전 정의는 '함수'입니다.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(285) : 'printf' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(53): error C2440: '초기화 중' : 'const char [4]'에서 'int'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(54): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(54): error C2365: 'printf' : 재정의: 이전 정의는 '함수'입니다.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(285) : 'printf' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(54): error C2440: '초기화 중' : 'const char [4]'에서 'int'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(55): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(55): error C2365: 'printf' : 재정의: 이전 정의는 '함수'입니다.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(285) : 'printf' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(55): error C2440: '초기화 중' : 'const char [4]'에서 'int'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(58): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(58): error C2374: 'year' : 재정의. 여러 번 초기화했습니다.
+                 c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(57) : 'year' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(62): error C2059: 구문 오류 : 'for'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(62): error C2143: 구문 오류 : ')'이(가) ';' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(62): error C2143: 구문 오류 : ';'이(가) '<' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(62): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(62): error C2086: 'int i' : 재정의
+                 c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19) : 'i' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(62): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(62): error C2086: 'int i' : 재정의
+                 c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19) : 'i' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(62): error C2059: 구문 오류 : ')'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(63): error C2143: 구문 오류 : ';'이(가) '{' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(63): error C2447: '{' : 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(67): error C2059: 구문 오류 : 'for'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(67): error C2143: 구문 오류 : ')'이(가) ';' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(67): error C2470: 'i' : 함수 정의처럼 보이지만 매개 변수 목록이 없습니다. 명백한 본문을 건너뜁니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(67): error C2059: 구문 오류 : '>'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(67): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(67): error C2086: 'int i' : 재정의
+                 c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19) : 'i' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(67): error C2059: 구문 오류 : ')'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(68): error C2143: 구문 오류 : ';'이(가) '{' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(68): error C2447: '{' : 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(72): error C2059: 구문 오류 : 'for'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(72): error C2143: 구문 오류 : ')'이(가) ';' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(72): error C2143: 구문 오류 : ';'이(가) '<' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(72): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(72): error C2086: 'int i' : 재정의
+                 c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19) : 'i' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(72): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(72): error C2086: 'int i' : 재정의
+                 c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19) : 'i' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(72): error C2059: 구문 오류 : ')'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(73): error C2143: 구문 오류 : ';'이(가) '{' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(73): error C2447: '{' : 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(77): error C2059: 구문 오류 : 'for'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(77): error C2143: 구문 오류 : ')'이(가) ';' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(77): error C2143: 구문 오류 : ';'이(가) '<' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(77): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(77): error C2086: 'int i' : 재정의
+                 c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19) : 'i' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(77): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(77): error C2086: 'int i' : 재정의
+                 c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(19) : 'i' 선언을 참조하십시오.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(77): error C2059: 구문 오류 : ')'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(78): error C2143: 구문 오류 : ';'이(가) '{' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(78): error C2447: '{' : 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(81): error C2059: 구문 오류 : 'return'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(82): error C2059: 구문 오류 : '}'
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(82): error C2143: 구문 오류 : ';'이(가) '}' 앞에 없습니다.
+     1>c:\users\sga-a08\desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.cpp(82): error C2059: 구문 오류 : '}'
+     1>"C:\Users\SGA-A08\Desktop\ㄱㄱ\ㄱㄱ\ㄱㄱ.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.09

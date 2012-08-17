@@ -1,0 +1,17 @@
+﻿빌드 시작: 2012-08-09 오후 8:47:19
+     1>2 노드의 "C:\Users\SGA-A13\Desktop\작업\trunk\이지환\Class3\Class3\Class3.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\Class3.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Class3.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Class3.cpp MyRectangle.cpp
+         MyRectangle.cpp
+     1>c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'MyRectangle.cpp': No such file or directory
+         Class3.cpp
+     1>c:\users\sga-a13\desktop\작업\trunk\이지환\class3\class3\class3.cpp(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'MyRectangle.h': No such file or directory
+         코드를 생성하고 있습니다...
+     1>"C:\Users\SGA-A13\Desktop\작업\trunk\이지환\Class3\Class3\Class3.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.49

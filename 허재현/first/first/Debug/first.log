@@ -1,0 +1,21 @@
+﻿빌드 시작: 2012-08-10 오후 8:01:36
+     1>2 노드의 "C:\Users\SGA-A04\Desktop\work\trunk\허재현\first\first\first.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\first.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\first.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt first.cpp
+         first.cpp
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\excpt.h(29): error C2598: 링크 사양은 전역 범위에 있어야 합니다.
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\windef.h(35): error C2598: 링크 사양은 전역 범위에 있어야 합니다.
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.h(28): error C2598: 링크 사양은 전역 범위에 있어야 합니다.
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\specstrings.h(18): error C2598: 링크 사양은 전역 범위에 있어야 합니다.
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\driverspecs.h(132): error C2598: 링크 사양은 전역 범위에 있어야 합니다.
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\kernelspecs.h(40): error C2598: 링크 사양은 전역 범위에 있어야 합니다.
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\basetsd.h(73): error C2598: 링크 사양은 전역 범위에 있어야 합니다.
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.h(493): fatal error C1903: 이전 오류를 복구할 수 없습니다. 컴파일이 중지됩니다.
+     1>"C:\Users\SGA-A04\Desktop\work\trunk\허재현\first\first\first.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.40

@@ -1,0 +1,15 @@
+﻿빌드 시작: 2012-08-13 오후 9:59:58
+     1>2 노드의 "C:\Users\SGA-A04\Desktop\work\trunk\허재현\Shapes\Shapes\Shapes.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\Shapes.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Shapes.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MyRect.cpp
+         MyRect.cpp
+     1>c:\users\sga-a04\desktop\work\trunk\허재현\shapes\shapes\myrect.cpp(70): error C2511: 'void MyRect::Draw(int)' : 오버로드된 멤버 함수가 'MyRect'에 없습니다.
+                 c:\users\sga-a04\desktop\work\trunk\허재현\shapes\shapes\myrect.h(4) : 'MyRect' 선언을 참조하십시오.
+     1>"C:\Users\SGA-A04\Desktop\work\trunk\허재현\Shapes\Shapes\Shapes.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.52

@@ -1,0 +1,27 @@
+﻿빌드 시작: 2012-08-10 오후 9:47:17
+     1>2 노드의 "C:\Users\SGA-A08\Desktop\새 폴더\trunk\김준성\Shapes\Shapes\Shapes.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\Shapes.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Shapes.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MyRect.cpp Shapes.cpp
+         Shapes.cpp
+         MyRect.cpp
+         코드를 생성하고 있습니다...
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\SGA-A08\Desktop\새 폴더\trunk\김준성\Shapes\Debug\Shapes.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Shapes.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\SGA-A08\Desktop\새 폴더\trunk\김준성\Shapes\Debug\Shapes.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\SGA-A08\Desktop\새 폴더\trunk\김준성\Shapes\Debug\Shapes.lib" /MACHINE:X86 Debug\Shapes.exe.embed.manifest.res
+         Debug\MyRect.obj
+         Debug\Shapes.obj
+         Debug\stdafx.obj
+     1>Shapes.obj : error LNK2001: "public: void __thiscall MyRect::MoveRight(void)" (?MoveRight@MyRect@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+     1>Shapes.obj : error LNK2001: "public: void __thiscall MyRect::MoveLeft(void)" (?MoveLeft@MyRect@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+     1>Shapes.obj : error LNK2001: "public: void __thiscall MyRect::MoveDown(void)" (?MoveDown@MyRect@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+     1>Shapes.obj : error LNK2001: "public: void __thiscall MyRect::MoveUp(void)" (?MoveUp@MyRect@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+     1>C:\Users\SGA-A08\Desktop\새 폴더\trunk\김준성\Shapes\Debug\Shapes.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.
+     1>"C:\Users\SGA-A08\Desktop\새 폴더\trunk\김준성\Shapes\Shapes\Shapes.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.99

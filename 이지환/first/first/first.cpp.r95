@@ -1,0 +1,55 @@
+// first.cpp : 콘솔 응용 프로그램에 대한 진입점을 정의합니다.
+//
+
+#include "stdafx.h"
+#include "Human.h"
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	Human kimjunsung;
+	kimjunsung.age = 10;
+	kimjunsung.height = 190;
+	kimjunsung.weight = 30;
+	kimjunsung.name = "김준성";
+
+	Human ohjaemin;
+	ohjaemin.age = 20;
+	ohjaemin.height = 140;
+	ohjaemin.weight = 200;
+	ohjaemin.name = "오재민";
+
+	Human heojaehyun;
+	heojaehyun.age = 15;
+	heojaehyun.height = 15;
+	heojaehyun.weight = 15;
+	heojaehyun.name = "허재현";
+
+	Human ohchangkeun;
+	ohchangkeun.age = 22;
+	ohchangkeun.height = 183;
+	ohchangkeun.weight = 72;
+	ohchangkeun.name = "오창근";
+	
+	kimjunsung.Eat();
+	ohjaemin.Eat();
+	heojaehyun.Eat();
+	ohchangkeun.Eat();
+
+	kimjunsung.Run();
+	ohjaemin.Run();
+	heojaehyun.Run();
+	ohchangkeun.Run();
+
+	kimjunsung.Think();
+	ohjaemin.Think();
+	heojaehyun.Think();
+	ohchangkeun.Think();
+
+	kimjunsung.Walk();
+	ohjaemin.Walk();
+	heojaehyun.Walk();
+	ohchangkeun.Walk();
+
+	return 0;
+}
+

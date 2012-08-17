@@ -1,0 +1,28 @@
+﻿빌드 시작: 2012-08-16 오후 8:56:13
+     1>2 노드의 "C:\Users\SGA-A14\Desktop\ogok84\trunk\최민석\Shapes\Shapes\Shapes.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\Shapes.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Shapes.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MyRect.cpp Shapes.cpp
+         Shapes.cpp
+     1>c:\users\sga-a14\desktop\ogok84\trunk\최민석\shapes\shapes\shapes.cpp(150): error C2143: 구문 오류 : ';'이(가) '<<' 앞에 없습니다.
+     1>c:\users\sga-a14\desktop\ogok84\trunk\최민석\shapes\shapes\shapes.cpp(152): error C2143: 구문 오류 : ';'이(가) '{' 앞에 없습니다.
+     1>c:\users\sga-a14\desktop\ogok84\trunk\최민석\shapes\shapes\shapes.cpp(166): error C2143: 구문 오류 : ';'이(가) '==' 앞에 없습니다.
+     1>c:\users\sga-a14\desktop\ogok84\trunk\최민석\shapes\shapes\shapes.cpp(169): error C2143: 구문 오류 : ';'이(가) '{' 앞에 없습니다.
+     1>c:\users\sga-a14\desktop\ogok84\trunk\최민석\shapes\shapes\shapes.cpp(174): error C2143: 구문 오류 : ';'이(가) '>>' 앞에 없습니다.
+     1>c:\users\sga-a14\desktop\ogok84\trunk\최민석\shapes\shapes\shapes.cpp(190): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+         MyRect.cpp
+     1>c:\users\sga-a14\desktop\ogok84\trunk\최민석\shapes\shapes\myrect.cpp(69): error C2059: 구문 오류 : '<<'
+     1>c:\users\sga-a14\desktop\ogok84\trunk\최민석\shapes\shapes\myrect.cpp(71): error C2143: 구문 오류 : ';'이(가) '{' 앞에 없습니다.
+     1>c:\users\sga-a14\desktop\ogok84\trunk\최민석\shapes\shapes\myrect.cpp(71): error C2447: '{' : 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+     1>c:\users\sga-a14\desktop\ogok84\trunk\최민석\shapes\shapes\myrect.cpp(96): error C2143: 구문 오류 : ';'이(가) '==' 앞에 없습니다.
+     1>c:\users\sga-a14\desktop\ogok84\trunk\최민석\shapes\shapes\myrect.cpp(96): error C2761: 'void MyRect::Draw(void) const' : 멤버 함수를 재선언할 수 없습니다.
+     1>c:\users\sga-a14\desktop\ogok84\trunk\최민석\shapes\shapes\myrect.cpp(99): error C2143: 구문 오류 : ';'이(가) '{' 앞에 없습니다.
+     1>c:\users\sga-a14\desktop\ogok84\trunk\최민석\shapes\shapes\myrect.cpp(99): error C2447: '{' : 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+         코드를 생성하고 있습니다...
+     1>"C:\Users\SGA-A14\Desktop\ogok84\trunk\최민석\Shapes\Shapes\Shapes.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:01.24

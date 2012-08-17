@@ -1,0 +1,23 @@
+﻿빌드 시작: 2012-08-09 오후 8:51:04
+     1>2 노드의 "C:\Users\SGA-A14\Desktop\ogok84\trunk\정민규\4\4\4.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\4.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\4.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MyRectangle.cpp
+         건너뛰고 있습니다... (관련된 변경 내용 없음)
+         MyRectangle.cpp
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\SGA-A14\Desktop\ogok84\trunk\정민규\4\Debug\4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\SGA-A14\Desktop\ogok84\trunk\정민규\4\Debug\4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\SGA-A14\Desktop\ogok84\trunk\정민규\4\Debug\4.lib" /MACHINE:X86 Debug\4.exe.embed.manifest.res
+         Debug\4.obj
+         Debug\MyRectangle.obj
+         Debug\stdafx.obj
+     1>4.obj : error LNK2019: "public: void __thiscall MyRectangle::Draw(void)" (?Draw@MyRectangle@@QAEXXZ) 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+     1>C:\Users\SGA-A14\Desktop\ogok84\trunk\정민규\4\Debug\4.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+     1>"C:\Users\SGA-A14\Desktop\ogok84\trunk\정민규\4\4\4.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.25

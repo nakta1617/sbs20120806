@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "비행기", "비행기\비행기.vcxproj", "{394E9FB4-82F0-4984-8062-2DF74AB0FC94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394E9FB4-82F0-4984-8062-2DF74AB0FC94}.Debug|Win32.ActiveCfg = Debug|Win32
+		{394E9FB4-82F0-4984-8062-2DF74AB0FC94}.Debug|Win32.Build.0 = Debug|Win32
+		{394E9FB4-82F0-4984-8062-2DF74AB0FC94}.Release|Win32.ActiveCfg = Release|Win32
+		{394E9FB4-82F0-4984-8062-2DF74AB0FC94}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

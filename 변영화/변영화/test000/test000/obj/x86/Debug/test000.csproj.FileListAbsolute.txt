@@ -1,0 +1,5 @@
+C:\Users\SGA-12\Desktop\작업\trunk\변영화\변영화\test000\test000\bin\Debug\test000.exe
+C:\Users\SGA-12\Desktop\작업\trunk\변영화\변영화\test000\test000\bin\Debug\test000.pdb
+C:\Users\SGA-12\Desktop\작업\trunk\변영화\변영화\test000\test000\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SGA-12\Desktop\작업\trunk\변영화\변영화\test000\test000\obj\x86\Debug\test000.exe
+C:\Users\SGA-12\Desktop\작업\trunk\변영화\변영화\test000\test000\obj\x86\Debug\test000.pdb
